@@ -1,0 +1,41 @@
+{
+  "name": "hc-ellipsis",
+  "version": "3.3.0",
+  "description": "jQuery plugin for multi-line text overflow ellipsis",
+  "homepage": "http://somewebmedia.com/hc-ellipsis",
+  "main": "dist/hc-ellipsis.js",
+  "author": {
+    "name": "Some Web Media",
+    "url": "http://somewebmedia.com"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/somewebmedia/hc-ellipsis.git"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "@babel/cli": "^7.1.2",
+    "@babel/core": "^7.1.2",
+    "@babel/preset-env": "^7.1.0",
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^3.1.0",
+    "gulp-babel": "^8.0.0",
+    "gulp-sass": "^3.2.1",
+    "gulp-uglify": "^3.0.1",
+    "uglify-save-license": "^0.4.1",
+    "yargs": "^6.6.0"
+  },
+  "keywords": [
+    "nav",
+    "navigation",
+    "menu",
+    "mobile",
+    "mobile-nav",
+    "hamburger",
+    "hamburger-menu",
+    "jquery",
+    "plugin",
+    "jquery-plugin"
+  ]
+}
