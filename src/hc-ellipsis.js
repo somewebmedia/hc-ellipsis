@@ -1,7 +1,7 @@
 /*
  * HC Ellipsis
  * ===================
- * Version:
+ * Version: 0.0.1
  * Author: Some Web Media
  * Author URL: http://somewebmedia.com
  * Plugin URL: https://github.com/somewebmedia/hc-ellipsis
