@@ -1,6 +1,6 @@
 {
   "name": "hc-ellipsis",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "jQuery plugin for multi-line text overflow ellipsis",
   "homepage": "http://somewebmedia.com/hc-ellipsis",
   "main": "dist/hc-ellipsis.js",
