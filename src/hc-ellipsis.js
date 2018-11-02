@@ -16,8 +16,8 @@
 
   const textNode = ($el) => {
     return $el.find('*').addBack().contents().filter(function() {
-      return this.nodeType === 3;
-    });
+      return this.nodeType === 3 && this.textContent.trim();
+    }).eq(0);
   };
 
   $.fn.extend({
